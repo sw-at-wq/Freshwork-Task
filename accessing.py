@@ -3,7 +3,7 @@ import code as x
 x.create("Andrea",25)    #to create a key with key_name,value given and with no time-to-live property
 
 
-x.create("src",70,3600)  #to create a key with key_name,value given and with time-to-live property value given(number of seconds)
+x.create("src",50,120)  #to create a key with key_name,value given and with time-to-live property value given(number of seconds)
 
 
 x.read("Andrea")         #it returns the value of the respective key in Jasonobject format 'key_name:value'
