@@ -14,4 +14,3 @@ The data store will support the following :
 8. The file size never exceeds 1GB
 9. The file is accessed by multi-threading
 
-Go through the accessing.py file and screenshot of working.
